@@ -17,7 +17,7 @@ Apart from Marketing & Visualization, I also maintain a blog - you can find my a
 <p style="text-align: center;"><img src="https://simpleicons.org/icons/powerbi.svg" alt="" width="70" height="70" />&nbsp; &nbsp; &nbsp;<img src="https://simpleicons.org/icons/microsoftexcel.svg" alt="microsoft excel" width="70" height="70" />&nbsp; &nbsp; &nbsp;<img src="https://simpleicons.org/icons/tableau.svg" alt="tableau" width="70" height="70" />&nbsp; &nbsp;<img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" width="70" height="70" /></p>
 <p style="text-align: center;">&nbsp;</p>
 
-## Certified from
+## Certification 
 
 <p style="text-align: center;"><img src="https://simpleicons.org/icons/udacity.svg" alt="Udactiy " width="70" height="70" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://simpleicons.org/icons/hubspot.svg" alt="Udactiy " width="70" height="70" /></p>
 
