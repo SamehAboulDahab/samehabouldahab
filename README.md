@@ -23,8 +23,7 @@ Apart from Marketing & Visualization, I also maintain a blog - you can find my a
 
 
 ## Support Me
-
-You can now support my endeavours by: ☕️ [Buy me a coffee!](https://www.buymeacoffee.com/samehabouldahab).
+☕️ [Buy me a coffee!](https://www.buymeacoffee.com/samehabouldahab).
 
 
 
