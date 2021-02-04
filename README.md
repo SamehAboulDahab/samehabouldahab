@@ -10,7 +10,7 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
-Apart from Marketing & Visualization, I also maintain a blog - you can find my articles on my website at [Sameh.dev](https://sameh.dev/).
+Apart from Marketing & Visualization, I also maintain a blog - you can find my articles on my [website](https://samehabouldahab.com/).
 
 ## 🔧 Technologies & Tools
 
